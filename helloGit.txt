@@ -6,3 +6,4 @@ hello git
 5 update
 master add
 master add again
+测试推送本地仓库到Github
