@@ -4,5 +4,6 @@ hello git
 3 update
 4 update
 5 update
+<<<<<<< HEAD
 master add
 master add again
