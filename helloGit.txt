@@ -7,4 +7,4 @@ hello git
 master add
 master add again
 测试推送本地仓库到Github
-
+测试查看跟踪状态
